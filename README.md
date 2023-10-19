@@ -1,5 +1,3 @@
-# TAIRP-Web-Task-Level-1-Task-1-Personal-Website
-
 # Personal Portfolio Website
 
 Welcome to my personal portfolio website! This repository contains the source code and files for my personal website, hosted on GitHub Pages. This website serves as a showcase of my work, skills, and experiences. Feel free to explore the code and content to learn more about me and my projects.
@@ -10,8 +8,8 @@ Welcome to my personal portfolio website! This repository contains the source co
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
-- [Usage](#usage)
 - [Video](#Video)
+- [Usage](#usage)
 - [Customization](#customization)
 - [Deployment](#deployment)
 - [Contributing](#contributing)
@@ -44,7 +42,7 @@ Before you begin, ensure you have the following requirements:
 1. Clone this repository to your local machine:
 
    ```bash
-[   git clone https://github.com/yourusername/your-portfolio-website.git](https://github.com/Manya103/TAIRP-Web-Task-Level-1-Task-1-Personal-Website.git)
+   https://github.com/Manya103/TAIRP-Web-Task-Level-1-Task-1-Personal-Website.git
    ```
 
 2. Customize the content in the HTML, CSS, and JavaScript files to match your information, projects, and preferences.
@@ -65,11 +63,11 @@ To use this website for your personal portfolio:
 
 4. Scroll down to the "GitHub Pages" section and configure it to use the "main" branch (or the branch you prefer) as the source for your GitHub Pages site.
 
+5. After a few moments, your website should be accessible at `https://yourusername.github.io/your-repository-name`.
 
-## Video 
+## Video
 
-https://github.com/Manya103/TAIRP-Web-Task-Level-1-Task-1-Personal-Website/assets/113758890/46769894-8a28-4b33-847e-9a200148359c
-
+https://github.com/Manya103/TAIRP-Web-Task-Level-1-Task-1-Personal-Website/assets/113758890/0cd49523-0651-4619-865a-3d488ba164bb
 
 ## Customization
 
