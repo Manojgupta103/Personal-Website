@@ -44,7 +44,7 @@ Before you begin, ensure you have the following requirements:
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/your-portfolio-website.git
+[   git clone https://github.com/yourusername/your-portfolio-website.git](https://github.com/Manya103/TAIRP-Web-Task-Level-1-Task-1-Personal-Website.git)
    ```
 
 2. Customize the content in the HTML, CSS, and JavaScript files to match your information, projects, and preferences.
